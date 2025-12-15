@@ -1,4 +1,4 @@
-"use client"
+"use client";
 
 import { ThemeProvider } from "@/providers/themeProvider/ThemeProvider";
 import NavbarStyleMinimal from '@/components/navbar/NavbarStyleMinimal';
@@ -201,7 +201,7 @@ export default function LandingPage() {
             "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_36r0PgQZzhj8jQqh48LKsIG58we/uploaded-1765802846826-8cam91ol.jpg",
             "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_36r0PgQZzhj8jQqh48LKsIG58we/uploaded-1765802847349-nss3xozk.jpg",
             "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_36r0PgQZzhj8jQqh48LKsIG58we/uploaded-1765802847910-t94nqwi6.jpg"
-          ]
+          ]}
           showCard={true}
           speed={40}
         />
